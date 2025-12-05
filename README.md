@@ -11,6 +11,8 @@ Contents:
 FinalReport.pdf – Full project report
 /screenshots – Images of pipelines, metrics, confusion matrices
 
+Video Presentation: https://drive.google.com/file/d/1fEN7Ex6WPG2W6lAZU4TXST1LPlDGlZh_/view?usp=drive_link
+
 Dataset:
 
 MNIST handwritten digits dataset (Kaggle link):
